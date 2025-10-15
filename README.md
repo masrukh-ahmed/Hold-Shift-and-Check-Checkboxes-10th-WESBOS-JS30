@@ -102,4 +102,5 @@ function handleCheck(e) {
   - Smooth check/uncheck animations.
 
 - This helped me understand not just _how_ the logic works, but _why_ each step is necessary.
-  ![Second Design Preview](second_design.png)
+
+![Second Design Preview](second_design.png)
